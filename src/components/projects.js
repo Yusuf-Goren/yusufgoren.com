@@ -58,6 +58,19 @@ class Projects extends Component {
           </CardMenu>
       </Card>
 
+      
+      <Card id="cards" shadow={0} style={{margin:'auto', background:'#072637'}}>
+          <CardTitle id="kaggle" style={{ color: '#000', height: '176px'}}>NLP with Disaster Tweets </CardTitle>
+          <CardText style={{color: '#fff'}}>
+              A npl work for understanding Disaster
+              tweets real or not.
+          </CardText>
+          <CardActions border>
+              <Button style={{color:"#fff"}} target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/yusufgren/notebookf75d2ff892">Kaggle</Button>
+          </CardActions>
+          <CardMenu style={{color: '#000'}}>
+          </CardMenu>
+      </Card>
 
 
       </div>

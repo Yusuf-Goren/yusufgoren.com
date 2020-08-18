@@ -66,6 +66,14 @@ font-family: 'Noto Sans JP', sans-serif;
   background-color: white;
   top:50%;
 }
+#kaggle {
+  background-image: url(../components/photo/kaggle.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  top:50%;
+}
 
 #flower {
   background-image: url(../components/photo/flower.png);
