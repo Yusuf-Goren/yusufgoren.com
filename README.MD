@@ -1,4 +1,4 @@
-Source code of www.goksubayram.com
+Source code of
 ## Resoucres:
 * ReactJS
 * [ReactMDL](https://tleunen.github.io/react-mdl)
