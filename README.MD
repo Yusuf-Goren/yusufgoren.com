@@ -3,7 +3,7 @@ Source code of yusufgoren.com
 * ReactJS
 * [ReactMDL](https://tleunen.github.io/react-mdl)
 * [React ParticlesJS](https://www.npmjs.com/package/react-particles-js)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Yusuf-Goren/yusufgoren.com/blob/master/Screenshot_1.png)
 ## Setup:
 * Clone the repository: `git clone https://github.com/yusuf-gören/yusufgoren.com`
 
