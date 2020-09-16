@@ -1,4 +1,4 @@
-Source code of
+Source code of yusufgoren.com
 ## Resoucres:
 * ReactJS
 * [ReactMDL](https://tleunen.github.io/react-mdl)
