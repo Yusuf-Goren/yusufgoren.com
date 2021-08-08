@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12f1071f3d16f1aaad59bbf135bba385",
+    "revision": "535d883e2a9de6774693ea77d8fe46ec",
     "url": "/yusufgoren.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yusufgoren.com/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "14379acaf966be83745f",
+    "revision": "1580af44764505f01097",
     "url": "/yusufgoren.com/static/css/main.440b196c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yusufgoren.com/static/js/2.128578e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14379acaf966be83745f",
-    "url": "/yusufgoren.com/static/js/main.0345cd9d.chunk.js"
+    "revision": "1580af44764505f01097",
+    "url": "/yusufgoren.com/static/js/main.3b41ef65.chunk.js"
   },
   {
     "revision": "9f0a14a78e50bdf92995",
