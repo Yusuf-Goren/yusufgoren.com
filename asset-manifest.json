@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/yusufgoren.com/static/css/main.440b196c.chunk.css",
+    "main.js": "/yusufgoren.com/static/js/main.0345cd9d.chunk.js",
+    "main.js.map": "/yusufgoren.com/static/js/main.0345cd9d.chunk.js.map",
+    "runtime-main.js": "/yusufgoren.com/static/js/runtime-main.fb124ed8.js",
+    "runtime-main.js.map": "/yusufgoren.com/static/js/runtime-main.fb124ed8.js.map",
+    "static/css/2.e4346227.chunk.css": "/yusufgoren.com/static/css/2.e4346227.chunk.css",
+    "static/js/2.128578e0.chunk.js": "/yusufgoren.com/static/js/2.128578e0.chunk.js",
+    "static/js/2.128578e0.chunk.js.map": "/yusufgoren.com/static/js/2.128578e0.chunk.js.map",
+    "index.html": "/yusufgoren.com/index.html",
+    "precache-manifest.ab7d90dd82aa688ae2a1d26ec9e058ed.js": "/yusufgoren.com/precache-manifest.ab7d90dd82aa688ae2a1d26ec9e058ed.js",
+    "service-worker.js": "/yusufgoren.com/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/yusufgoren.com/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.440b196c.chunk.css.map": "/yusufgoren.com/static/css/main.440b196c.chunk.css.map",
+    "static/js/2.128578e0.chunk.js.LICENSE.txt": "/yusufgoren.com/static/js/2.128578e0.chunk.js.LICENSE.txt",
+    "static/media/project.css": "/yusufgoren.com/static/media/starwars.cb4fb779.jpg",
+    "static/media/fp.jpg": "/yusufgoren.com/static/media/fp.2d9aab10.jpg",
+    "static/media/mainpage.png": "/yusufgoren.com/static/media/mainpage.e327eef3.png",
+    "static/media/screenshot_1.png": "/yusufgoren.com/static/media/screenshot_1.2d9aab10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb124ed8.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.128578e0.chunk.js",
+    "static/css/main.440b196c.chunk.css",
+    "static/js/main.0345cd9d.chunk.js"
+  ]
+}
